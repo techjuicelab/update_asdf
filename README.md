@@ -27,7 +27,7 @@
 
     ```bash
     git clone https://github.com/techjuicelab/update_asdf.git
-    cd YourRepoName
+    cd update_asdf
     ```
 
 2.  **실행 권한 부여**
